@@ -1,5 +1,5 @@
-# SimpleLoginSystem
- Simple Login System  | C#, .NET Framework
+# Simple Login System
+C#, .NET Framework
 
 # Tutorial
 1. Open program. Copy the HWID that is displayed.
